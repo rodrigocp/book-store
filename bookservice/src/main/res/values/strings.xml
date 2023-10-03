@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="volume_no_title">Título não informado!</string>
+    <string name="volume_no_subtitle">Subtítulo não informado!</string>
+    <string name="volume_no_description">Descrição não informada!</string>
+</resources>
