@@ -24,5 +24,5 @@ Not all features were implemented. The following ones are marked as TODO:
 
 # Known Issues
 - The application uses an resume URI rather than buy URI.
-- Some glitches appears LazyGrid
+- Some glitches appears on LazyGrid
 - Pagination start index not getting offsets between 20 - 40
