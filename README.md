@@ -21,6 +21,7 @@ Make sure you have installed:
 # TODO
 Not all features were implemented. The following ones are marked as TODO:
 - Save user favorite books
+- Unit Tests
 
 # Known Issues
 - The application uses an resume URI rather than buy URI.
